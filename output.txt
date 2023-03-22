@@ -1,0 +1,14 @@
+total 64
+drwxr-xr-x  13 steph  staff  416 Mar 19 23:06 .
+drwxr-xr-x   4 steph  staff  128 Mar 14 21:20 ..
+drwxr-xr-x   4 steph  staff  128 Mar 14 23:38 chat-gpt
+-rw-r--r--   1 steph  staff   37 Mar 14 21:21 hello.py
+-rw-r--r--   1 steph  staff  334 Mar 14 21:44 import-2.py
+-rw-r--r--   1 steph  staff  219 Mar 14 21:39 import.py
+-rw-r--r--   1 steph  staff  668 Mar 16 23:39 list_dirs.py
+-rw-r--r--   1 steph  staff   79 Mar 18 22:27 ls_l.py
+-rw-r--r--   1 steph  staff    0 Mar 19 23:06 output.txt
+-rw-r--r--   1 steph  staff  171 Mar 15 22:51 read_file.py
+drwxr-xr-x   2 steph  staff   64 Mar 18 21:41 shell-script-practice
+-rw-r--r--   1 steph  staff  387 Mar 19 23:06 subprocess_library_commands.py
+-rwxr-xr-x   1 steph  staff  295 Mar 18 22:29 various_os_commands.py
