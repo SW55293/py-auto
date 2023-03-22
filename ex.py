@@ -9,3 +9,5 @@ print(capture.stdout)
 #search for in the file
 greping = subprocess.run(['grep', '-n', 'file'],capture_output=True, text=True, input=capture.stdout)
 print(greping.stdout)
+
+#you can shorten this code by placing it all in one run with shell=True
